@@ -2,6 +2,7 @@
 title:  "Contact"
 layout: single
 permalink: /Contact/
+
 ---
 
 <html lang="en">
