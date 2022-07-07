@@ -49,7 +49,7 @@ permalink: /Contact/
 
 <b>Preferred Qualifications:</b> Prior experience in the field of NLP and an established track record of publications in top conferences and workshops is a plus. Students with a strong mathematical background and programming skills with adequate knowledge in the fields of (not limited to) machine learning, computational social science, deep learning, machine learning, natural processing etc.  
 More importantly, a team player who can also perform tasks individually with the curiosity to learn more and a desire to conduct research is whom we are looking for &#128512;
-</p>
+
 
 
 <p><h2><strong>Undergraduate students</strong></h2></p>
