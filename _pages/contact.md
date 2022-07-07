@@ -47,8 +47,8 @@ permalink: /Contact/
 <section><p>If you're not currently a student at OU, the best way is to apply directly to the CS graduate program and mention you are interested in NLP in your application.
 </p></section>
 
-<b>Preferred Qualifications:</b> Prior experience in the field of NLP and an established track record of publications in top conferences and workshops is a plus. Students with a strong mathematical background and programming skills with adequate knowledge in the fields of (not limited to) machine learning, computational social science, deep learning, machine learning, natural processing etc.  
-More importantly, a team player who can also perform tasks individually with the curiosity to learn more and a desire to conduct research is whom we are looking for &#128512;
+<b>Preferred Qualifications:</b> Prior experience in the field of NLP and an established track record of publications in top conferences and workshops is a plus. Students with strong mathematical background and programming skills with adequate knowledge in the fields of (not limited to) machine learning, computational social science, deep learning, social media analysis, natural language processing etc.  
+More importantly, a team player who can also perform tasks individually with a curiosity to learn more and a desire to conduct research is whom we are looking for &#128512;
 
 
 
