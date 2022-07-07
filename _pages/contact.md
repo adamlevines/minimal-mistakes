@@ -1,6 +1,6 @@
 ---
 title:  "Contact"
-layout: single
+layout: splash
 permalink: /Contact/
 
 ---
@@ -25,6 +25,7 @@ permalink: /Contact/
 
 
 <section class = "page_content" itemprop = "text">
+<p><h1>Contact</h1></p>
 <p>Oakland NLP Lab is always looking for motivated and talented researchers to join our team every semester. Please feel free to reach out if you want more information about the lab or if you're interested in doing NLP research at Oakland University.</p>
 
 <p><h2><strong>Prospective PhD Students </strong></h2>
