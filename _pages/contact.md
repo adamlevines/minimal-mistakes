@@ -39,6 +39,6 @@ Please send us your resume and updated transcripts via email. Students having st
 
 <p><h2><strong>Address</strong></h2></p>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2933.541616040972!2d-83.2178905!3d42.6710682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8824ea8517efb6e7%3A0x2063d9daeaff2028!2sMathematics%20and%20Science%20Center%2C%20Rochester%2C%20MI%2048309!5e0!3m2!1sen!2sus!4v1657071674161!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2933.5178951377147!2d-83.21715408453385!3d42.67157077916716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8824ea8590e16b47%3A0x6b5d32ffab8de22a!2sOakland%20University%20-%20Engineering%20Center!5e0!3m2!1sen!2sus!4v1657157418102!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 </section>
