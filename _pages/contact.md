@@ -23,14 +23,14 @@ permalink: /Contact/
 
 
 <section class = "page_content" itemprop = "text">
-<p>Oakland NLP Lab is always looking for motivated and talented researchers to join our lab each semester. Please feel free to reach out if you want more information about the lab or if you're interested in doing NLP research at Oakland University.</p>
+<p>Oakland NLP Lab is always looking for motivated and talented researchers to join our team every semester. Please feel free to reach out if you want more information about the lab or if you're interested in doing NLP research at Oakland University.</p>
 
 <p><h2><strong>Prospective PhD Students </strong></h2>
 <p>If you are a current OU student or have been admitted in the university, please share the following details with Dr.Wilson:</p>
 <ul>
 <li>A copy of your CV / an updated resume</li>
 <li>Your university level transcripts (Undergraduate and Masters)</li>
-<li>Background experience relevant to the field of Natural Language Processing, Machine Learning and Deep Leaerning(including statistics, mathemtaics and general programming experience).</li>
+<li>Background experience relevant to the field of Natural Language Processing, Machine Learning and Deep Learning(including statistics, mathematics and general programming experience).</li>
 <li>A small statement on</li>
 <ul>
 <li>Your research interests</li>
@@ -54,7 +54,7 @@ More importantly, a team player who can also perform tasks individually with the
 
 <p><h2><strong>Undergraduate students</strong></h2></p>
 <p>We highly encourage that you take atleast one of the following courses or similar (<span title = "Machine Learning"><u class = "dotted">CSI 6160</u></span>, 
-<span title = "Artificial  Intelligence"><u class = "dotted">CSI 5130</u></span>, <span title = "Deep Learning and Applications"><u class = "dotted">CSI 5140</u></span>, <span title = "Deep Learning"><u class = "dotted">CSI 5340)</u></span> before working in the lab. If interested, please send us your resume and updated transcripts via email.</p>
+<span title = "Artificial  Intelligence"><u class = "dotted">CSI 5130</u></span>, <span title = "Deep Learning and Applications"><u class = "dotted">CSI 5140</u></span>, <span title = "Deep Learning"><u class = "dotted">CSI 5340)</u></span> before working in the lab. If interested, please send us your updated resume and transcripts via email.</p>
 
 
 
