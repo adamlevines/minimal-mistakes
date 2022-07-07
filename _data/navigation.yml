@@ -5,7 +5,7 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "Projects"
-    #url: /collection-archive/
+    url: /Projects/
   - title: "Contact"
     url: /Contact/
   #- title: "About"
