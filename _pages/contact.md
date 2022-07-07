@@ -13,6 +13,7 @@ permalink: /Contact/
     u {    
     border-bottom: 1px dotted #000;
     text-decoration: none;
+    cursor: pointer;
 }
 </style>
 
